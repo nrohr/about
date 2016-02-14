@@ -1,0 +1,8 @@
+site_name: Nick Rohrbaugh
+theme: simplex
+docs_dir: .
+pages:
+  - Home: 'index.md'
+  - Research: 'research.md'
+  - CV: 'CV.md'
+  - About me: 'personal.md'
