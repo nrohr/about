@@ -19,4 +19,4 @@ Some might say that it's crazy to make a deliberate decision to have a child in 
 
 <br/>
 
-When I'm not working on research, I enjoy watching the NFL (Ravens) and NBA (76ers, I know...), reading about psychology, politics, and economics, and spending time with my growing family.
+When I'm not working on research, I enjoy watching the NFL (Ravens) and NBA (76ers... I know...), reading about psychology, politics, and economics, and spending time with my growing family.
