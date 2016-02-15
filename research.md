@@ -2,7 +2,7 @@
 
 <br/>
 
-I'm interested in how people influence each other's attitudes, beliefs, and decisions. In my work, I combine approaches from the fields individual differences research, social and cognitive psychology, judgment and decision-making, and social networks to understand the emergent large-scale effects of individuals interacting with one another in homogeneous and heterogeneous social networks.
+I'm interested in how people influence each other's attitudes, beliefs, and decisions. In my work, I combine approaches from individual differences research, social and cognitive psychology, judgment and decision-making, and social networks to understand the emergent large-scale effects of individuals interacting with one another in social networks.
 
 <br/>
 <br/>
