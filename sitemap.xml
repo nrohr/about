@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-02-14</lastmod>
+     <lastmod>2016-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>None/research/</loc>
-     <lastmod>2016-02-14</lastmod>
+     <lastmod>2016-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>None/CV/</loc>
-     <lastmod>2016-02-14</lastmod>
+     <lastmod>2016-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,15 @@
     
     <url>
      <loc>None/personal/</loc>
-     <lastmod>2016-02-14</lastmod>
+     <lastmod>2016-03-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/links/</loc>
+     <lastmod>2016-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

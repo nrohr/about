@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
 
-	<title>About me - Nick Rohrbaugh</title>
+	<title>Links - Nick Rohrbaugh</title>
 
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -76,14 +76,14 @@
             
             
             
-                <li class="active">
-                    <a href="./">About me</a>
+                <li >
+                    <a href="../personal/">About me</a>
                 </li>
             
             
             
-                <li >
-                    <a href="../links/">Links</a>
+                <li class="active">
+                    <a href="./">Links</a>
                 </li>
             
             
@@ -92,12 +92,12 @@
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
                 <li >
-                    <a rel="next" href="../CV/">
+                    <a rel="next" href="../personal/">
                         <i class="fa fa-arrow-left"></i> Previous
                     </a>
                 </li>
-                <li >
-                    <a rel="prev" href="../links/">
+                <li class="disabled">
+                    <a rel="prev" >
                         Next <i class="fa fa-arrow-right"></i>
                     </a>
                 </li>
@@ -111,23 +111,50 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
+        <li class="main active"><a href="#data-analysis">Data Analysis</a></li>
+        
+    
+        <li class="main "><a href="#mathstatistics">Math/Statistics</a></li>
+        
+    
+        <li class="main "><a href="#psychology">Psychology</a></li>
+        
+    
+        <li class="main "><a href="#blogs-etc">Blogs etc.</a></li>
+        
+    
     </ul>
 </div></div>
             <div class="col-md-9" role="main">
 
-<h1>About me</h1>
+<h1>Useful Links</h1>
 
+<p><br/></p>
+<p>I've found these links to be useful in my research. Maybe you will, too. (In progress)</p>
 <p><br/>
 <br/></p>
-<p><img alt="" src="https://dl.dropboxusercontent.com/u/8005346/rohrbaughs.jpg" /></p>
+<h3 id="data-analysis">Data Analysis</h3>
+<p>I use <a href="https://cran.r-project.org/">R</a> with <a href="https://www.rstudio.com/">RStudio</a> for all of my analyses.</p>
+<p>I create all of my figures with the <a href="http://ggplot2.org/">ggplot2</a> package. The <a href="http://docs.ggplot2.org/current/">documentation</a> is very helpful.</p>
+<p>I've found that the very best way to present your analyses to someone else is through <a href="http://rmarkdown.rstudio.com/">RMarkdown</a> to create PDFs, Word documents, or <a href="http://rmarkdown.rstudio.com/html_document_format.html">html pages</a>. I use <a href="http://www.mkdocs.org/">MkDocs</a> and <a href="https://pages.github.com/">GitHub Pages</a> to create publicly accessible webpages from markdown (including this one!)</p>
+<p>For Bayesian analyses, <a href="http://mc-stan.org/interfaces/rstan.html">RStan</a>. <a href="https://www3.nd.edu/~mclark19/learn/IntroBayes.pdf">This</a> is a very good guide to using it that draws on Gelman et al.'s <em>Bayesian Data Analysis</em> textbook.</p>
+<p><a href="http://doingbayesiandataanalysis.blogspot.com/">John Kruschke's textbook</a> is also good for Bayesian data analysis.</p>
+<p><a href="http://www.amazon.com/Mathematical-Statistics-Resampling-Laura-Chihara/dp/1118029852">Mathematical Statistics with Resampling and R by Chihara &amp; Hesterberg</a> is a good introduction to resampling methods in R.</p>
 <p><br/></p>
-<p>I live in Philadelphia, PA with my wife <a href="http://fourthfizz.blogspot.com/">Stephanie</a>, Shiba Inu dog Audrey, cat Fifi, and soon-to-be-born son Calvin. I spend most of my weekdays in Princeton at the beautiful new Peretsman-Scully Hall and Princeton Neuroscience Institute. It's amazing to feel like I live both in a large bustling city and a small quiet town, both with an enormous amount of history.</p>
+<h3 id="mathstatistics">Math/Statistics</h3>
+<p>If you need a refresher on linear algebra, <a href="http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm">this course</a> by Gilbert Strang is helpful. The lectures are old, but luckily the basics of linear algebra haven't changed much since 1999.</p>
+<p>Scott Fortmann-Roe has two excellent posts on <a href="http://scott.fortmann-roe.com/docs/BiasVariance.html">understanding the bias-variance tradeoff</a> and <a href="http://scott.fortmann-roe.com/docs/MeasuringError.html">measuring model prediction error</a>.</p>
 <p><br/></p>
-<p>Steph is a fourth-grade teacher at a small charter school in southwest Philadelphia. There is perhaps no more important place to apply psychology than in the classroom, and I credit Steph for being the primary influence of my interest in applied psychology.</p>
+<h3 id="psychology">Psychology</h3>
+<p><a href="http://www.psych.umn.edu/meehlvideos.php">These videos</a> of some old lectures by Paul Meehl on philosophical psychology are great.</p>
+<p>The <a href="http://mail.sjdm.org/mailman/listinfo/jdm-society">Society for Judgment &amp; Decision Making listserv</a> is always full of good links, discussion, and job openings in JDM research.</p>
 <p><br/></p>
-<p>Some might say that it's crazy to make a deliberate decision to have a child in grad school. I suppose I'll soon find out if they're right! I think someone once said something about not being able to have it all, but I'll be damned if I won't try and end up with at least most of it. I'm very grateful to have a huge support network of friends and family, and to attend a university that's relatively (<em>relatively!</em>) generous with the stipend it provides us.</p>
-<p><br/></p>
-<p>When I'm not working on research, I enjoy watching the NFL (Ravens) and NBA (76ers... I know...), reading about psychology, politics, and economics, and spending time with my growing family.</p></div>
+<h3 id="blogs-etc">Blogs etc.</h3>
+<p>Statistics: <a href="http://andrewgelman.com/">Andrew Gelman</a>, <a href="http://daniellakens.blogspot.com/">Daniel Lakens</a>, <a href="http://datacolada.org/">Uri Simonsohn, Joe Simmons, &amp; Leif Nelson</a>, <a href="http://alexanderetz.com/">Alexander Etz</a></p>
+<p>Reproducibility, replication, &amp; the state of scientific psychology: <a href="https://hardsci.wordpress.com/">Sanjay Srivastava</a>, <a href="http://sometimesimwrong.typepad.com/wrong/">Simine Vazire</a>, <a href="https://replicationindex.wordpress.com/">Ulrich Schimmack</a></p>
+<p>Scientific Communication: <a href="http://www.culturalcognition.net/blog">Dan Kahan</a></p>
+<p>Reviews of recent cog/neuro papers: <a href="https://blogs.discovermagazine.com/neuroskeptic">Neuroskeptic</a></p>
+<p>Political psychology: <a href="http://www.pleeps.org/">Jason Weeden</a></p></div>
         </div>
 
         <script src="../js/jquery-1.10.2.min.js"></script>

@@ -74,6 +74,31 @@
             "location": "/personal/", 
             "text": "About me\n\n\n\n\n\n\n\n\n\n\n\nI live in Philadelphia, PA with my wife \nStephanie\n, Shiba Inu dog Audrey, cat Fifi, and soon-to-be-born son Calvin. I spend most of my weekdays in Princeton at the beautiful new Peretsman-Scully Hall and Princeton Neuroscience Institute. It's amazing to feel like I live both in a large bustling city and a small quiet town, both with an enormous amount of history.\n\n\n\n\nSteph is a fourth-grade teacher at a small charter school in southwest Philadelphia. There is perhaps no more important place to apply psychology than in the classroom, and I credit Steph for being the primary influence of my interest in applied psychology.\n\n\n\n\nSome might say that it's crazy to make a deliberate decision to have a child in grad school. I suppose I'll soon find out if they're right! I think someone once said something about not being able to have it all, but I'll be damned if I won't try and end up with at least most of it. I'm very grateful to have a huge support network of friends and family, and to attend a university that's relatively (\nrelatively!\n) generous with the stipend it provides us.\n\n\n\n\nWhen I'm not working on research, I enjoy watching the NFL (Ravens) and NBA (76ers... I know...), reading about psychology, politics, and economics, and spending time with my growing family.", 
             "title": "About me"
+        }, 
+        {
+            "location": "/links/", 
+            "text": "Useful Links\n\n\n\n\n\nI've found these links to be useful in my research. Maybe you will, too. (In progress)\n\n\n\n\n\n\nData Analysis\n\n\nI use \nR\n with \nRStudio\n for all of my analyses.\n\n\nI create all of my figures with the \nggplot2\n package. The \ndocumentation\n is very helpful.\n\n\nI've found that the very best way to present your analyses to someone else is through \nRMarkdown\n to create PDFs, Word documents, or \nhtml pages\n. I use \nMkDocs\n and \nGitHub Pages\n to create publicly accessible webpages from markdown (including this one!)\n\n\nFor Bayesian analyses, \nRStan\n. \nThis\n is a very good guide to using it that draws on Gelman et al.'s \nBayesian Data Analysis\n textbook.\n\n\nJohn Kruschke's textbook\n is also good for Bayesian data analysis.\n\n\nMathematical Statistics with Resampling and R by Chihara \n Hesterberg\n is a good introduction to resampling methods in R.\n\n\n\n\nMath/Statistics\n\n\nIf you need a refresher on linear algebra, \nthis course\n by Gilbert Strang is helpful. The lectures are old, but luckily the basics of linear algebra haven't changed much since 1999.\n\n\nScott Fortmann-Roe has two excellent posts on \nunderstanding the bias-variance tradeoff\n and \nmeasuring model prediction error\n.\n\n\n\n\nPsychology\n\n\nThese videos\n of some old lectures by Paul Meehl on philosophical psychology are great.\n\n\nThe \nSociety for Judgment \n Decision Making listserv\n is always full of good links, discussion, and job openings in JDM research.\n\n\n\n\nBlogs etc.\n\n\nStatistics: \nAndrew Gelman\n, \nDaniel Lakens\n, \nUri Simonsohn, Joe Simmons, \n Leif Nelson\n, \nAlexander Etz\n\n\nReproducibility, replication, \n the state of scientific psychology: \nSanjay Srivastava\n, \nSimine Vazire\n, \nUlrich Schimmack\n\n\nScientific Communication: \nDan Kahan\n\n\nReviews of recent cog/neuro papers: \nNeuroskeptic\n\n\nPolitical psychology: \nJason Weeden", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/links/#data-analysis", 
+            "text": "I use  R  with  RStudio  for all of my analyses.  I create all of my figures with the  ggplot2  package. The  documentation  is very helpful.  I've found that the very best way to present your analyses to someone else is through  RMarkdown  to create PDFs, Word documents, or  html pages . I use  MkDocs  and  GitHub Pages  to create publicly accessible webpages from markdown (including this one!)  For Bayesian analyses,  RStan .  This  is a very good guide to using it that draws on Gelman et al.'s  Bayesian Data Analysis  textbook.  John Kruschke's textbook  is also good for Bayesian data analysis.  Mathematical Statistics with Resampling and R by Chihara   Hesterberg  is a good introduction to resampling methods in R.", 
+            "title": "Data Analysis"
+        }, 
+        {
+            "location": "/links/#mathstatistics", 
+            "text": "If you need a refresher on linear algebra,  this course  by Gilbert Strang is helpful. The lectures are old, but luckily the basics of linear algebra haven't changed much since 1999.  Scott Fortmann-Roe has two excellent posts on  understanding the bias-variance tradeoff  and  measuring model prediction error .", 
+            "title": "Math/Statistics"
+        }, 
+        {
+            "location": "/links/#psychology", 
+            "text": "These videos  of some old lectures by Paul Meehl on philosophical psychology are great.  The  Society for Judgment   Decision Making listserv  is always full of good links, discussion, and job openings in JDM research.", 
+            "title": "Psychology"
+        }, 
+        {
+            "location": "/links/#blogs-etc", 
+            "text": "Statistics:  Andrew Gelman ,  Daniel Lakens ,  Uri Simonsohn, Joe Simmons,   Leif Nelson ,  Alexander Etz  Reproducibility, replication,   the state of scientific psychology:  Sanjay Srivastava ,  Simine Vazire ,  Ulrich Schimmack  Scientific Communication:  Dan Kahan  Reviews of recent cog/neuro papers:  Neuroskeptic  Political psychology:  Jason Weeden", 
+            "title": "Blogs etc."
         }
     ]
 }
