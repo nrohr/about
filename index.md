@@ -6,11 +6,11 @@
 
 <br/>
 
-Graduate Student in Psychology at Princeton
+Senior Associate at [Good Judgment, Inc.](http://www.goodjudgment.com/) and Graduate Student in Psychology at Princeton
 
 <br/>
 
-Advisors:
+Princeton advisors:
 
 [Alin Coman](https://www.princeton.edu/~acoman/Home.html)
 
@@ -23,6 +23,8 @@ Eldar Shafir
 
 <br/>
 
+Princeton:
+
 Department of Psychology
 
 Princeton University
@@ -33,7 +35,7 @@ Princeton, NJ 08540
 
 <br/>
 
-![](https://dl.dropboxusercontent.com/u/8005346/email.png) [rohrbaugh@princeton.edu](mailto:rohrbaugh@princeton.edu)
+![](https://dl.dropboxusercontent.com/u/8005346/email.png) [nickrohrbaugh@gmail.com](mailto:nickrohrbaugh@gmail.com) or [rohrbaugh@goodjudgment.com](mailto:rohrbaugh@goodjudgment.com) or [rohrbaugh@princeton.edu](mailto:rohrbaugh@princeton.edu)
 
 ![](https://dl.dropboxusercontent.com/u/8005346/twitter.png) [nickrohrbaugh](https://twitter.com/nickrohrbaugh)
 
